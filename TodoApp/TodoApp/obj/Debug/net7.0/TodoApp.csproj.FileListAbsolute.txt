@@ -1,0 +1,14 @@
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.AssemblyInfo.cs
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\bin\Debug\net7.0\TodoApp.exe
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\bin\Debug\net7.0\TodoApp.deps.json
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\bin\Debug\net7.0\TodoApp.runtimeconfig.json
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\bin\Debug\net7.0\TodoApp.dll
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\bin\Debug\net7.0\TodoApp.pdb
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.dll
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\refint\TodoApp.dll
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.pdb
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\TodoApp.genruntimeconfig.cache
+C:\Users\90506\Desktop\egitim\TodoApp\TodoApp\obj\Debug\net7.0\ref\TodoApp.dll
